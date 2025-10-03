@@ -5,7 +5,7 @@ I'm a **Front-End Web Developer** passionate about creating interactive and resp
 
 - 🌱 I’m currently improving my **JavaScript, HTML, and CSS skills**  
 - 💻 Focused on **Front-End Development**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/muhaiminsaad)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhaiminsaad)  
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript  
