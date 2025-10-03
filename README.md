@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muhaimin Saad
+# I'm Muhaimin Saad
 
 ## About Me
 I'm a **Front-End Web Developer** passionate about creating interactive and responsive web applications. I love turning ideas into clean, functional websites using modern web technologies.  
