@@ -1,22 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Muhaimin Saad</h1>
+# Hi there 👋, I'm Muhaimin Saad
 
-<h2 align="center">About Me</h2>
-<p align="center">
-I'm a <b>Front-End Web Developer</b> passionate about creating interactive and responsive web applications.
-I love turning ideas into clean, functional websites using modern web technologies.<br>
-🌱 I’m currently improving <b>JavaScript, HTML, and CSS skills</b><br>
-💻 Focused on <b>Front-End Development</b><br>
-📫 How to reach me: <a href="mailto:your-email@example.com">Email</a> | <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
+## About Me
+I'm a **Front-End Web Developer** passionate about creating interactive and responsive web applications. I love turning ideas into clean, functional websites using modern web technologies.  
 
-<h2 align="center">Skills</h2>
-<p align="center">
-<b>Languages:</b> HTML, CSS, JavaScript<br>
-<b>Tools & Frameworks:</b> VS Code, Git, Bootstrap<br>
-<b>Other:</b> Responsive Design, DOM Manipulation, Web Accessibility
-</p>
+- 🌱 I’m currently improving my **JavaScript, HTML, and CSS skills**  
+- 💻 Focused on **Front-End Development**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/muhaiminsaad)  
 
-<h2 align="center">Certifications</h2>
+## Skills
+- **Languages:** HTML, CSS, JavaScript  
+- **Tools & Frameworks:** VS Code, Git, Bootstrap  
+- **Other:** Responsive Design, DOM Manipulation, Web Accessibility  
+
+## Certifications
 
 <div align="center">
   <a href="https://www.freecodecamp.org/certification/muhaiminsaad/responsive-web-design">
@@ -32,5 +28,7 @@ I love turning ideas into clean, functional websites using modern web technologi
   <p><b>Basic JavaScript - HackerRank</b></p>
 </div>
 
-<h2 align="center">Fun Fact</h2>
-<p align="center">"When nothing goes right, go left 😉"</p>
+---
+
+## Fun Fact
+"When nothing goes right, go left 😉"
