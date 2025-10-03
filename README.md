@@ -1,3 +1,1 @@
-## Certifications
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-brightgreen)](https://www.freecodecamp.org/certification/yourusername/responsive-web-design)
-[![Coursera](https://img.shields.io/badge/Coursera-Data%20Science-blue)](https://www.coursera.org/account/accomplishments/certificate/XXXX)
+[![Responsive Web Design](https://ik.imagekit.io/muhaiminsaad/RWD_2700pxH.png?updatedAt=1759471989207)](https://www.freecodecamp.org/certification/muhaiminsaad/responsive-web-design)
