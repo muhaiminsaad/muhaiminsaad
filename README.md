@@ -27,6 +27,3 @@ I'm a **Front-End Web Developer** passionate about creating interactive and resp
 </div>
 
 ---
-
-## Fun Fact
-"When nothing goes right, go left 😉"
