@@ -10,7 +10,7 @@ I'm a **Front-End Web Developer** passionate about creating interactive and resp
 ## Skills
 - **Languages:** HTML, CSS, JavaScript  
 
-## Certifications
+<div align="center">## Certifications</div>
 
 <div align="center">
   <a href="https://www.freecodecamp.org/certification/muhaiminsaad/responsive-web-design">
