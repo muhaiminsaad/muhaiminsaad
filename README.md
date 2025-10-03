@@ -1,16 +1,22 @@
-# Hi there 👋, I'm Muhaimin Saad
+<h1 align="center">Hi there 👋, I'm Muhaimin Saad</h1>
 
-## About Me
-I'm a **Front-End Web Developer** passionate about creating interactive and responsive web applications. I love turning ideas into clean, functional websites using modern web technologies.  
+<h2 align="center">About Me</h2>
+<p align="center">
+I'm a <b>Front-End Web Developer</b> passionate about creating interactive and responsive web applications.
+I love turning ideas into clean, functional websites using modern web technologies.<br>
+🌱 I’m currently improving <b>JavaScript, HTML, and CSS skills</b><br>
+💻 Focused on <b>Front-End Development</b><br>
+📫 How to reach me: <a href="mailto:your-email@example.com">Email</a> | <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
 
-- 🌱 I’m currently improving my **JavaScript, HTML, and CSS skills**  
-- 💻 Focused on **Front-End Development**  
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/)  
+<h2 align="center">Skills</h2>
+<p align="center">
+<b>Languages:</b> HTML, CSS, JavaScript<br>
+<b>Tools & Frameworks:</b> VS Code, Git, Bootstrap<br>
+<b>Other:</b> Responsive Design, DOM Manipulation, Web Accessibility
+</p>
 
-## Skills
-- **Languages:** HTML, CSS, JavaScript  
-
-<div align="center">## Certifications</div>
+<h2 align="center">Certifications</h2>
 
 <div align="center">
   <a href="https://www.freecodecamp.org/certification/muhaiminsaad/responsive-web-design">
@@ -26,6 +32,5 @@ I'm a **Front-End Web Developer** passionate about creating interactive and resp
   <p><b>Basic JavaScript - HackerRank</b></p>
 </div>
 
-
-
----
+<h2 align="center">Fun Fact</h2>
+<p align="center">"When nothing goes right, go left 😉"</p>
