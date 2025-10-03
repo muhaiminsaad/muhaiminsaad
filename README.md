@@ -13,10 +13,11 @@ I'm a **Front-End Web Developer** passionate about creating interactive and resp
 ## Certifications
 
 <a href="https://www.freecodecamp.org/certification/muhaiminsaad/responsive-web-design">
-  <img src="https://ik.imagekit.io/muhaiminsaad/RWD_2700pxH.png" alt="Responsive Web Design" width="200">
+  <img src="https://ik.imagekit.io/muhaiminsaad/RWD_2700pxH.png" alt="Responsive Web Design" width="300">
 </a>
+
 <a href="https://www.hackerrank.com/certificates/49f8d9416cb3">
-  <img src="https://ik.imagekit.io/muhaiminsaad/javascript_basic_hr.jpg" alt="Basic Javascript" width="200">
+  <img src="https://ik.imagekit.io/muhaiminsaad/javascript_basic_hr.jpg" alt="Basic Javascript" width="300">
 </a>
 
 
