@@ -9,19 +9,19 @@ I'm a **Front-End Web Developer** passionate about creating interactive and resp
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript  
-- **Tools & Frameworks:** VS Code, Git, Bootstrap  
-- **Other:** Responsive Design, DOM Manipulation, Web Accessibility  
 
 ## Certifications
 
 <a href="https://www.freecodecamp.org/certification/muhaiminsaad/responsive-web-design">
-  <img src="https://ik.imagekit.io/muhaiminsaad/RWD_2700pxH.png?updatedAt=1759471989207" alt="Responsive Web Design" width="200" height="200">
+  <div style="width:200px; height:200px; display:inline-block; margin:5px;">
+    <img src="https://ik.imagekit.io/muhaiminsaad/RWD_2700pxH.png" alt="Responsive Web Design" style="width:100%; height:100%; object-fit:contain;">
+  </div>
 </a>
 <a href="https://www.hackerrank.com/certificates/49f8d9416cb3">
-  <img src="https://ik.imagekit.io/muhaiminsaad/javascript_basic_hr.jpg?updatedAt=1759471234913" alt="Basic Javascript" width="200" height="200">
+  <div style="width:200px; height:200px; display:inline-block; margin:5px;">
+    <img src="https://ik.imagekit.io/muhaiminsaad/javascript_basic_hr.jpg" alt="Basic Javascript" style="width:100%; height:100%; object-fit:contain;">
+  </div>
 </a>
 
----
 
-## Fun Fact
-"When nothing goes right, go left 😉"
+---
