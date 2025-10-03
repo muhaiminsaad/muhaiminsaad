@@ -9,8 +9,6 @@ I'm a **Front-End Web Developer** passionate about creating interactive and resp
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript  
-- **Tools & Frameworks:** VS Code, Git, Bootstrap  
-- **Other:** Responsive Design, DOM Manipulation, Web Accessibility  
 
 ## Certifications
 
