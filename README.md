@@ -26,7 +26,7 @@ Artistic mind, with passion for tech💙
 
 | Certificate | Provider | Link |
 |------------|----------|------|
-| Google Data Analytics | Coursera | [https://www.google.com](#) |
+| Google Data Analytics | Coursera | [https://www.google.com](https://www.google.com) |
 | CCNA: Intro to Networks | Cisco | [View](#) |
 | Machine Learning | Coursera | [View](#) |
 
