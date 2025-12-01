@@ -1,14 +1,10 @@
 # I'm Muhaimin Saad
 
 ## About Me
-I'm a **Front-End Web Developer** passionate about creating interactive and responsive web applications. I love turning ideas into clean, functional websites using modern web technologies.  
-
-- 🌱 I’m currently improving my **JavaScript, HTML, and CSS skills**  
-- 💻 Focused on **Front-End Development**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhaiminsaad)  
+Artistic mind, with passion for tech💙
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript  
+-**Languages:** C, SQL, HTML, CSS, JavaScript  
 
 ## Certifications
 
