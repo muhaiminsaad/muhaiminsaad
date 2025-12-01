@@ -4,7 +4,7 @@
 Artistic mind, with passion for tech💙
 
 ## Skills
--**Languages:** C, SQL, HTML, CSS, JavaScript  
+**Languages:** C, SQL, HTML, CSS, JavaScript  
 
 ## 📜 Certifications
 
