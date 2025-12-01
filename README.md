@@ -22,11 +22,11 @@ Artistic mind, with passion for tech💙
   <p><b>Basic JavaScript - HackerRank</b></p>
 </div>
 
-## 📜 Certificates
+## 📜 Certifications
 
 | Certificate | Provider | Link |
 |------------|----------|------|
-| Google Data Analytics | Coursera | [View](#) |
+| Google Data Analytics | Coursera | [https://www.google.com](#) |
 | CCNA: Intro to Networks | Cisco | [View](#) |
 | Machine Learning | Coursera | [View](#) |
 
