@@ -8,7 +8,7 @@ Artistic mind, with passion for tech💙
 
 ## 📜 Certifications
 
-| Certificate | Provider | Link |
+| Name | Provider | Link |
 |------------|----------|------|
 | SQL Basic | HackerRank | [View](https://www.hackerrank.com/certificates/dc4aed32804c) |
 | SQL Intermediate | HackerRank | [View](https://www.hackerrank.com/certificates/550c58231eaa) |
